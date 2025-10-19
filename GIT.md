@@ -8,3 +8,12 @@
 5. Git Cheat Sheat - [link](https://education.github.com/git-cheat-sheet-education.pdf)
 6. Git Pro book - [link](https://git-scm.com/book/pl/v2)
 7. Notatki z kluczowmi informacjami do systemu GIT - [link](https://github.com/bogdanpolak/nauka-gita)
+
+
+### Excersizes
+1. Learn Git Branching - [link](https://learngitbranching.js.org/)
+2. VConflict practice - [link](https://github.com/githubtraining/conflict-practice)
+3. Git Warsztaty - [link](https://www.gitwarsztaty.pl/cwiczenia) 
+
+### Interview Questions
+1. Git pytania rekrutacyjne - [link](https://mockit.pl/blog/pytania-rekrutacyjne-git)
